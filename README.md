@@ -1,5 +1,7 @@
 ## Bem-vind@ ao ITecnologIT
 
+Here you will have access to a lot of technology content!
+
 
 You can use the [editor on GitHub](https://github.com/jhonatasisraelcl/ITecnologIT/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
