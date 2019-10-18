@@ -1,5 +1,4 @@
-# ITecnologIT
-## Welcome to GitHub Pages
+## Bem-vind@ ao ITecnologIT
 
 You can use the [editor on GitHub](https://github.com/jhonatasisraelcl/ITecnologIT/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
