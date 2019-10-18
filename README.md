@@ -2,8 +2,8 @@
 
 Here you will have access to a lot of technology content!
 
-http://jhonatasisraelcl.github.io/ITtecnologIT - automatic!
-[GitHub](http://jhonatasisraelcl.github.io/ITtecnologIT )
+
+[GitHub](https://jhonatasisraelcl.github.io/ITecnologIT/ )
 
 [Instagram](https://www.instagram.com/jhonataslaurentino)
 
