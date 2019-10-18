@@ -2,8 +2,8 @@
 
 Here you will have access to a lot of technology content!
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+http://jhonatasisraelcl.github.io/ITtecnologIT - automatic!
+[GitHub](http://jhonatasisraelcl.github.io/ITtecnologIT )
 
 If you want to embed images, this is how you do it:
 
